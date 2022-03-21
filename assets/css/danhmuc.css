@@ -1,0 +1,152 @@
+.back{
+    background-color: rgb(4, 4, 126);
+    border-radius: 2px;
+    border: 1px solid rgb(4, 2, 126);
+    box-sizing: border-box;
+    float: right;
+    margin-top: 30px;
+    margin-right: 0;
+    outline: 0;
+    padding: 14px 40px;
+    vertical-align: baseline;
+    color: black;
+    box-shadow: 0 0 10px gray;
+    border-radius: 15px;
+}
+
+.back h3{
+    color: white;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.back li{
+    list-style: circle;
+    line-height: 2.5;
+    padding-left: 20px;
+    padding: 10px 0;
+    border-bottom:1px solid #314558;
+}
+
+.back li a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.back .ti-list{
+    padding-left: 3xp;   
+}
+
+.back ul li .active{
+    color: red;
+}
+
+.back li a:hover{
+    color: wheat;
+}
+article .gioithieu h3{
+    padding-top: 20px;
+    font-size: 18px;
+}
+article .gioithieu p{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+article .gioithieu img{
+    width: 65%;
+    padding-bottom: 10px;
+    margin-left:130px;
+    display: block;
+}
+
+article .chucnang p{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.back .fa-list{
+    color: rgb(253, 250, 59);
+}
+
+article .quykhuyenhoc p{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.5;
+    text-indent: 20px;
+}
+article .quykhuyenhoc h6,
+article .quykhuyenhoc h4{
+    text-align: center;
+    line-height: 1.5;
+    font-size: 15px;
+}
+article .dshocbongkhac{
+    background-color: white;
+    border-radius: 2px;
+    border: 2px solid red;
+    box-sizing: border-box;
+    float: none;
+    margin: 0px auto;
+    outline: 0;
+    padding: 15px 20px;
+    vertical-align: baseline;
+    color: black;
+    box-shadow: 0 0 10px gray;
+    margin-top: 15px;
+}
+
+
+.dshocbongkhac a{
+    font-size: 13px;
+    color: rgb(12, 143, 219);
+    font-weight: bold;
+}
+
+.dshocbongkhac a:hover{
+    color: yellow;
+}
+
+
+article .thamkhao h4{
+    color: rgb(59, 59, 246);
+    margin-top: 250px;
+}
+
+article .thamkhao ul{
+    padding-bottom: 30px;
+}
+
+article .thamkhao ul li a{
+    color: black;
+}
+
+article .lienhe{
+    background-color: rgb(12, 143, 219);
+    border-radius: 2px;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    float: none;
+    margin: 0px auto;
+    outline: 0;
+    padding: 20px 20px;
+    vertical-align: baseline;
+    color: white;
+    box-shadow: 0 0 10px gray;
+    margin-top: 40px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 70px;
+}
+
+.lienhe .com{
+    width: 60%;
+    height: 110px;
+}
+
+.hn h3{
+    padding-bottom: 10px;
+}

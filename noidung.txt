@@ -1,0 +1,6 @@
+<h3>Thư liên hệ của khách hàng</h3>
+<hr>
+<p> Tên khách Hàng: <i>{name}</i></p>
+<p> Email khách Hàng: <i>{email}</i></p>
+<p> Số điện thoại: <i>{sdt}</i></p>
+<p> Nội dung liên hệ: <i>{conten}</i></p>
